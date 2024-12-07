@@ -34,7 +34,7 @@ const Navbar = () => {
           {/* Logo */}
           <div className="flex items-center space-x-2">
             <img
-              src="./logo.png" // Replace with your logo URL
+              src="../companylogo.png" // Replace with your logo URL
               alt="Logo"
               className="w-16 h-10"
             />

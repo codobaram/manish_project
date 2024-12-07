@@ -69,11 +69,11 @@ const Footer = () => {
             </div>
             <div className="mt-6">
               <img
-                src="/logo.png"
+                src="/companylogo.png"
                 alt="TO THE NEW"
                 className="w-20 mb-2"
               />
-              <p className="text-sm text-gray-600">©2024 TO THE NEW</p>
+              <p className="text-sm text-gray-600">©2024 Codobar</p>
             </div>
           </div>
         </div>
