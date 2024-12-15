@@ -11,6 +11,8 @@ const App = () => {
     <div>
       <TopHeader />
       <Navbar />
+
+      
       {/* Sample content to scroll */}
       <div className="h-[580px]">
         <HeroSection />
